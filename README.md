@@ -27,6 +27,10 @@ This template provides the following suggested organizaiton structure for the pr
 (you can remove the content here and above from your final project README.md file so that it begins with the Project or Team Name title below)
 
 # Project or Team Name
+<div align="center">
+ 
+<img src="PXL_20241017_155300381.jpg" height="450" alt="amazonwebservices logo"  />
+</div>
 
 ## Project Title and Introduction
 
