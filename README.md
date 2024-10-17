@@ -41,7 +41,7 @@ Our goal for this week is to replicate previous results using the adjoint from E
 | ------------- | ------------- | 
 | Marie Zahn|
 | Noah Rosenberg|I would like to get familiar using EMU and its outputs|
-| Odilon Houndegnonto|
+| Odilon Houndegnonto| Understand the ECCO environment and its built-in packages for output analysis; Learn the EMU tolls and its outputs management|
 
 
 ### The problem
