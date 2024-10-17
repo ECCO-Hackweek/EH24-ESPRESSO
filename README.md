@@ -1,8 +1,6 @@
-# Sample Project
+# Exploring Sensitivity Patterns and Responses in the Southern Ocean (ESPResSO)
 
-This is an example of how teams can structure their project repositories and format their project README.md file.
 
-When creating a project repository from this template choose "Public" so other participants can follow progress. Add a "topic" to your repository details (click on the gear icon next to the "About" section on the repository page) to help others find your work (e.g. `ecco-hackweek-2024`).
 
 
 ## Files and folders in your project repository
@@ -32,20 +30,19 @@ This template provides the following suggested organizaiton structure for the pr
 
 ## Project Title and Introduction
 
-Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
+We are using the EMU tools to investigate drivers of volume transport in the Drake Passage. This is a well-studied problem that has been investigated using adjoint models (e.g. Mazloff, 2012). Variability in the transport is known to be driven primarily by zonal wind stress along the ACC, with responses on time scales of about one month, in addition to wind stress following bathymetric features in and around the ACC region.
+
+Our goal for this week is to replicate previous results using the adjoint from EMU and ensure we can attribute variability in the Drake Passage transport to recognizable patterns of primarily zonal wind stress. 
 
 ### Collaborators
 
-List all participants on the project. Here is a good space to share your personal goals for the hackweek and things you can help with.
 
-| Name | Personal goals | Can help with | Role |
-| ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
-| Alan T. | learning about your dataset | GitHub, Jupyter, cloud computing | Project Helper |
-| Rachel C. | learn to use github, resolve merge conflicts | I am familiar with our dataset | Team Member  |
-| ... | ... | ... | ... |
-| ... | ... | ... | ... |
+| Name | Personal goals | 
+| ------------- | ------------- | 
+| Marie Zahn|
+| Noah Rosenberg|I would like to get familiar using EMU and its outputs|
+| Odilon Houndegnonto|
+
 
 ### The problem
 
