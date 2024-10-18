@@ -28,7 +28,6 @@ This template provides the following suggested organizaiton structure for the pr
 
 # Project or Team Name
 <div align="center">
- 
 <img src="PXL_20241017_155300381.jpg" height="450" alt="amazonwebservices logo"  />
 </div>
 
@@ -45,7 +44,7 @@ Our goal for this week is to replicate previous results using the adjoint from E
 | ------------- | ------------- | 
 | Marie Zahn|
 | Noah Rosenberg|I would like to get familiar using EMU and its outputs|
-| Odilon Houndegnonto| Understand the ECCO environment and its built-in packages for output analysis; Learn the EMU tolls and its outputs management|
+| Odilon Houndegnonto| Understand the ECCO environment and its built-in packages for output analysis. Learn the EMU tolls and its outputs management|
 
 
 ### The problem
