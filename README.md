@@ -62,11 +62,11 @@ We utilized [ECCO Modeling Utilities (EMU)](https://ecco.odyseallc.net/docs/01_1
 
 ### Approach
 
-We defines $QoI J$ = (SSH @ Southern tip of Chile) - (SSH @ West Antarctic Peninsula) which represents geostrophic transport through Drake Passage ($r$ = 0.78 wrt total transport in v4r4). We ran the adjoint targeting $J$(January 1993) with weekly lags back to January 1992.
+We defined $QoI J$ = (SSH @ Southern tip of Chile) - (SSH @ West Antarctic Peninsula) which represents geostrophic transport through Drake Passage ($r$ = 0.78 wrt total transport in v4r4). We ran the adjoint targeting $J$(January 1993) with weekly lags back to January 1992.
 
 ## Project Conclusions
 
-EMU tools recover similar large scale features of sensitivity to wind stress forcing compared to those from a high resolution adjoint (Mazloff 2012). We identified bugs in EMU, including issues surrounding running transport masks. Some open questions remaining include: Why does EV increase at lags up to 52 weeks? Why is sensitivity to zonal wind negative?
+EMU tools recovered similar large scale features of sensitivity to wind stress forcing compared to those from a high resolution adjoint (Mazloff 2012). We identified bugs in EMU, including issues surrounding running transport masks. Some open questions remaining include: Why does explained variation increase at lags up to 52 weeks? Why is sensitivity to zonal wind negative?
 
 Our final powerpoint slide can be found here: [FINAL PROJECT SLIDE](https://docs.google.com/presentation/d/1KKr9KIAILeS5JWGuom2XTw4ymFWFC_LilzXHi3rYuZU/edit?usp=sharing)
 
