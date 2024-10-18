@@ -26,14 +26,14 @@ This template provides the following suggested organizaiton structure for the pr
 
 (you can remove the content here and above from your final project README.md file so that it begins with the Project or Team Name title below)
 
-# Project or Team Name
+# Project Team Members
 <div align="center">
-<img src="PXL_20241017_155300381.jpg" height="450" alt="amazonwebservices logo"  />
+<img src="PXL_20241017_155300381.jpg" height="600" alt="amazonwebservices logo"  /> <br/>
+ From left to right: Marie J. Zahn, Noah A. Rosenberg and Odilon J. Houndegnonto. Behind them is Ian G. Fenty.
 </div>
 
 ## Project Title and Introduction
-
-We are using the EMU tools to investigate drivers of volume transport in the Drake Passage. This is a well-studied problem that has been investigated using adjoint models (e.g. Mazloff, 2012). Variability in the transport is known to be driven primarily by zonal wind stress along the ACC, with responses on time scales of about one month, in addition to wind stress following bathymetric features in and around the ACC region.
+The ESPResSo stands for Exploring Sensitivity Patterns and Responses in the Southern Ocean. We are using the EMU tools to investigate drivers of volume transport in the Drake Passage. This is a well-studied problem that has been investigated using adjoint models (e.g. Mazloff, 2012). Variability in the transport is known to be driven primarily by zonal wind stress along the Antarctic Circumpolar Current (ACC), with responses on time scales of about one month, in addition to wind stress following bathymetric features in and around the ACC region.
 
 Our goal for this week is to replicate previous results using the adjoint from EMU and ensure we can attribute variability in the Drake Passage transport to recognizable patterns of primarily zonal wind stress. 
 
