@@ -58,7 +58,8 @@ Studies (e.g. Mazloff, 2012) have reported the zonal win stress as the main driv
 ### Data
 
 Briefly describe and provide citations for the data that will be used (size, format, how to access).
-We use ECCO v4r4 model output, available from  
+
+We used the ECCO Version 4 release 4 (V4r4) ocean model output.The ECCO V4r4 datasets provide global coverage over the period from 1992 to 2018 at daily, monthly, and snapshot (instantaneous) time intervals. In the present project, we used the weekly average for the EMU Adjoint, Sampling and Attributions tools, and monthly average for Convolution tool. The ECCO grid configurations are divided into 13 tiles. In the present work, the Drake Passage includes the tile 11 and 12 (see image below). 
 
 ### Existing methods
 
