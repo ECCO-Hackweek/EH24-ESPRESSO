@@ -42,9 +42,9 @@ Our goal for this week is to replicate previous results using the adjoint from E
 
 | Name | Personal goals | 
 | ------------- | ------------- | 
-| Marie Zahn|
+| Marie Zahn|Familiarize myself with EMU tools and interpreting outputs from the adjoit|
 | Noah Rosenberg|I would like to get familiar using EMU and its outputs|
-| Odilon Houndegnonto| Understand the ECCO environment and its built-in packages for output analysis. Learn the EMU tolls and its outputs management|
+| Odilon Houndegnonto| Understand the ECCO environment and its built-in packages for output analysis. Learn the EMU tools and its outputs management|
 
 
 ### The problem
