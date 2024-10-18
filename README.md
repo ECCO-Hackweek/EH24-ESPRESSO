@@ -66,6 +66,8 @@ We used the ECCO Version 4 release 4 (V4r4) ocean model output.The ECCO V4r4 dat
 </div>
 
 - ECCO Version 4 Description: Forget, G., J.-M. Campin, P. Heimbach, C. N. Hill, R. M. Ponte, and C. Wunsch, 2015: ECCO version 4: An integrated framework for non-linear inverse modeling and global ocean state estimation. Geoscientific Model Development, 8. https://www.geosci-model-dev.net/8/3071/2015/
+
+We used the following built-in ECCO packages: 
 ### Existing methods
 
 How would you or others traditionally try to address this problem? Provide any relevant citations to prior work.
