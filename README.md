@@ -28,7 +28,7 @@ This template provides the following suggested organizaiton structure for the pr
 
 # Project Team Members
 <div align="center">
-<img src="PXL_20241017_155300381.jpg" height="600" alt="amazonwebservices logo"  /> <br/>
+<img src="PXL_20241017_155300381.jpg" height="600" alt="ESPResSO Team photo"  /> <br/>
  From left to right: Marie J. Zahn, Noah A. Rosenberg and Odilon J. Houndegnonto. Behind them is Ian G. Fenty.
 </div>
 
@@ -59,7 +59,11 @@ Studies (e.g. Mazloff, 2012) have reported the zonal win stress as the main driv
 
 Briefly describe and provide citations for the data that will be used (size, format, how to access).
 
-We used the ECCO Version 4 release 4 (V4r4) ocean model output.The ECCO V4r4 datasets provide global coverage over the period from 1992 to 2018 at daily, monthly, and snapshot (instantaneous) time intervals. In the present project, we used the weekly average for the EMU Adjoint, Sampling and Attributions tools, and monthly average for Convolution tool. The ECCO grid configurations are divided into 13 tiles. In the present work, the Drake Passage includes the tile 11 and 12 (see image below). 
+We used the ECCO Version 4 release 4 (V4r4) ocean model output.The ECCO V4r4 datasets provide global coverage over the period from 1992 to 2018 at daily, monthly, and snapshot (instantaneous) time intervals. In the present project, we used the weekly average for the EMU Adjoint, Sampling and Attributions tools, and monthly average for Convolution tool. The ECCO grid configurations are divided into 13 tiles. In the present work, the Drake Passage includes the tile 12 and 13 (see image below). The ECCO v4r4 dataset can be accessed from PO.DAAC repository [https://ecco.jpl.nasa.gov/drive/] or from the NASA Earth Observation databaes [https://data.nas.nasa.gov/ecco].
+<div align="center">
+<!--- <a href="https://www.ecco-group.org/analysis-tools.htm"></a> --->
+ <img src="https://www.ecco-group.org/images/ecco_tiles.png" height="600"/>
+</div>
 
 ### Existing methods
 
