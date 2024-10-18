@@ -49,13 +49,16 @@ Our goal for this week is to replicate previous results using the adjoint from E
 
 ### The problem
 
-Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
+<!--- Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work. --->
+
+Studies (e.g. Mazloff, 2012) have reported the zonal win stress as the main driver of the volume transport variability through the Drake Passage (between the southern still of the Chilli and the Antarctica). In this project, we first explored the EMU tools of Sampling, Adjoint, Convolution and Attribution. Then, we jointly applied Adjoint and Convolutions on SSH at the Drake Passage and compared the output with Attribution results. This work will validate the EMU tools and make sure that it replicates well the known drivers of the volume transport variability at the Drake Passage. For these purpose, we tried to replicate the study of Mazloff, 2012 [here: https://doi.org/10.1175/JCLI-D-11-00030.1].
 
 ## Data and Methods
 
 ### Data
 
 Briefly describe and provide citations for the data that will be used (size, format, how to access).
+We use ECCO v4r4 model output, available from  
 
 ### Existing methods
 
